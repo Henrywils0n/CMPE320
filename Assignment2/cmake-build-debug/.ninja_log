@@ -1,0 +1,12 @@
+# ninja log v5
+1	119	6883394007089301	build.ninja	ac81e0a627be686b
+3	392	6883509449836693	CMakeFiles/Assignment2.dir/fraction_20hgww.cpp.obj	f3195e7703588c80
+11	283	6883509448752608	CMakeFiles/Assignment2.dir/FractionTest.cpp.obj	3be9ce5d9a724e2c
+393	513	6883509450983404	Assignment2.exe	2a28ac0251f5916
+12	289	6883510315821934	CMakeFiles/Assignment2.dir/FractionTest.cpp.obj	3be9ce5d9a724e2c
+3	394	6883510316865439	CMakeFiles/Assignment2.dir/fraction_20hgww.cpp.obj	f3195e7703588c80
+395	516	6883510317995432	Assignment2.exe	2a28ac0251f5916
+12	352	6883520696439298	CMakeFiles/Assignment2.dir/FractionTest.cpp.obj	3be9ce5d9a724e2c
+3	487	6883520697778554	CMakeFiles/Assignment2.dir/fraction_20hgww.cpp.obj	f3195e7703588c80
+488	680	6883520699659591	Assignment2.exe	2a28ac0251f5916
+14	352	6883521280235288	CMakeFiles/Assignment2.dir/FractionTest.cpp.obj	3be9ce5d9a724e2c

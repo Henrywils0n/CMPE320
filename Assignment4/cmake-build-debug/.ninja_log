@@ -1,0 +1,27 @@
+# ninja log v5
+6	321	6912680176818056	CMakeFiles/Assignment4.dir/ShapesGood.cpp.obj	37a49fcecdde59ef
+1	125	6919533500162622	build.ninja	fd00038de97c0139
+15	398	6912679700036235	CMakeFiles/Assignment4.dir/ShapesBad.cpp.obj	11445079ae594dc5
+7	460	6912679700657833	CMakeFiles/Assignment4.dir/TestBadShapes.cpp.obj	e522f9335d892ca5
+3	357	6912680177180359	CMakeFiles/Assignment4.dir/TestGoodShapes.cpp.obj	9e76ba8c97a15ea9
+357	457	6912680178132854	Assignment4.exe	933ff861db712053
+3	456	6919539794778445	CMakeFiles/Assignment4.dir/TestGoodShapes.cpp.obj	9e76ba8c97a15ea9
+7	295	6919545369188946	CMakeFiles/Assignment4.dir/ShapesGood.cpp.obj	37a49fcecdde59ef
+3	322	6919545369454925	CMakeFiles/Assignment4.dir/TestGoodShapes.cpp.obj	9e76ba8c97a15ea9
+323	489	6919545371081778	Assignment4.exe	933ff861db712053
+8	286	6919549942396203	CMakeFiles/Assignment4.dir/ShapesGood.cpp.obj	37a49fcecdde59ef
+3	318	6919549942716208	CMakeFiles/Assignment4.dir/TestGoodShapes.cpp.obj	9e76ba8c97a15ea9
+319	413	6919549943632428	Assignment4.exe	933ff861db712053
+3	324	6919577465738401	CMakeFiles/Assignment4.dir/TestGoodShapes.cpp.obj	9e76ba8c97a15ea9
+7	293	6919577757085807	CMakeFiles/Assignment4.dir/ShapesGood.cpp.obj	37a49fcecdde59ef
+3	328	6919577757432183	CMakeFiles/Assignment4.dir/TestGoodShapes.cpp.obj	9e76ba8c97a15ea9
+328	432	6919577758434470	Assignment4.exe	933ff861db712053
+51	528	6919579315268215	CMakeFiles/Assignment4.dir/ShapesGood.cpp.obj	37a49fcecdde59ef
+8	571	6919579315690890	CMakeFiles/Assignment4.dir/TestGoodShapes.cpp.obj	9e76ba8c97a15ea9
+571	752	6919579317460472	Assignment4.exe	933ff861db712053
+12	424	6919579390911292	CMakeFiles/Assignment4.dir/ShapesGood.cpp.obj	37a49fcecdde59ef
+5	465	6919579391331832	CMakeFiles/Assignment4.dir/TestGoodShapes.cpp.obj	9e76ba8c97a15ea9
+466	610	6919579392735735	Assignment4.exe	933ff861db712053
+37	540	6919853720676516	CMakeFiles/Assignment4.dir/ShapesGood.cpp.obj	37a49fcecdde59ef
+4	556	6919853720835125	CMakeFiles/Assignment4.dir/TestGoodShapes.cpp.obj	9e76ba8c97a15ea9
+556	812	6919853723347094	Assignment4.exe	933ff861db712053

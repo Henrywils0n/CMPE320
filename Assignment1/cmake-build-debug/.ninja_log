@@ -1,0 +1,10 @@
+# ninja log v5
+2	341	6847789781379291	CMakeFiles/Assignment1.dir/main.cpp.obj	a9bee04d46f10e2d
+6	600	6865112115033091	CMakeFiles/Assignment1.dir/insultgenerator_20232923.cpp.obj	69af43f7da7fab7b
+15	526	6865119625054385	CMakeFiles/Assignment1.dir/TestInsultGenerator.cpp.obj	be54e3598131693b
+638	838	6865119628120538	Assignment1.exe	c4d33fbb60748048
+3	368	6867641550830078	build.ninja	1d5ada6c4f0c438c
+4	638	6865119626181132	CMakeFiles/Assignment1.dir/insultgenerator_20hgww.cpp.obj	bd30120887fa126a
+9	370	6883511714788199	CMakeFiles/Assignment1.dir/TestInsultGenerator.cpp.obj	be54e3598131693b
+3	486	6883511715957448	CMakeFiles/Assignment1.dir/insultgenerator_20hgww.cpp.obj	bd30120887fa126a
+487	626	6883511717286700	Assignment1.exe	c4d33fbb60748048
